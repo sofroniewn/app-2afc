@@ -1,6 +1,6 @@
 {
   "name": "app-2afc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Electron app for running a 2AFC experiment",
   "main": "electron main.js",
   "scripts": {
